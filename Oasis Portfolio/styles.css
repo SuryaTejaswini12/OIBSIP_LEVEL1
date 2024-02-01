@@ -1,0 +1,21 @@
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: purple;
+    background-color: #d8da3d;
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+  }
+
+h1{
+  color: #913175;
+}
+h3{
+  color: #913175;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
